@@ -25,7 +25,7 @@ The Header will be visible in all the three reports and it shows:
 * Total number of online devices, and
 * Total number of all the device, categories, sub-categories, and zones.
 
-<img src="Img/Report_Header.png" width=200>>
+<img src="Img/Report_Header.png" width=700>>
 
 <a name="hlm"></a>      
 #### 1. High-level Metrics <br>
@@ -33,20 +33,20 @@ The high-level metric page shows the importance business metrics such as:
 * The total number of devices in a specific category/device
 * The total number of online and offline devices.
 
-<img src="Img/High_level_Metric.png" width=200>>
+<img src="Img/High_level_Metric.png" width=700>>
 
 
 <a name="drillF"></a>      
 #### 1.1 Drill-Through <br>
 For each of the device in the bar chart when clicked a user can drill through (jump to another page) by right clicking the device and easily choose the page the want to navigate to.
 
-<img src="Img/drill_through.png" width=200>>
+<img src="Img/drill_through.png" width=700>>
 
 <a name="drillB"></a>      
 #### 1.2 Drill-Down <br>
 To drill down (jump back to the high-level metric) easily click on the drill down button shown below
 
-<img src="Img/back_to_hlm.png" width=200>>
+<img src="Img/back_to_hlm.png" width=700>>
 
 
 
@@ -57,7 +57,7 @@ Device monitoring page shows all the registered devices with the status and whet
 * When the drill-through is used in the high-level metric to the monitoring page, the page will only show data of the drilled device, and 
 * The drill-down button can be used at the bottom left corner to move back to the high-level metric
 
-<img src="Img/Device_Monitoring.png" width=200>>
+<img src="Img/Device_Monitoring.png" width=700>>
 
 
 <a name="dr"></a>      
@@ -66,7 +66,7 @@ Device registration page all the registered devices with the date the device was
 * The line chart shows the total number of devices installed by year
 * The metric show the actual date the device was installed
 
-<img src="Img/Device_Registration.png" width=200>>
+<img src="Img/Device_Registration.png" width=700>>
 
 #### Help and Support<br>
 ---
